@@ -1,0 +1,9 @@
+1: for answers.csv
+
+What we have: 53 topics, last one in all-topics.txt: http://www.quora.com/Minimum-Wage
+Total # of topics: 403
+
+2: for users.csv
+
+What we have: 268 users, last one in user-url-list.txt:  http://www.quora.com/Pavel-Cherkasov
+Total # of users: 12281
